@@ -1,0 +1,10 @@
+c2fe181b6914168970cb547cbdfe1145 *DESCRIPTION
+df390c53434517b304ac5db487184641 *NAMESPACE
+02b8c1894cc0bbc553a44cfaa826d97c *R/utc.R
+e5b11c1f40517a00e9d9b7d0dc88703e *README.md
+b8a5b3c83a3c92e159dbbfc4ec130ccf *man/fromUTC.Rd
+a49884a7b72262b3990d7f6a2f1693dd *man/grapes-h-plus-grapes.Rd
+e95c3c4d06945a8db9a95590bff406e1 *man/hoursUTC.Rd
+c8410f6d76535842561dbcbeba430377 *man/toUTC.Rd
+3b70b148edbd9f7444cdc38f919b4945 *tests/testthat.R
+85f495170d03df66b36f641edb892273 *tests/testthat/test_utc_difference.R
